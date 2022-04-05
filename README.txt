@@ -1,5 +1,3 @@
-# H2O.ai Wildfire & Bushfire Challenge
-
 The documentation is viewable in the web application, but can also be viewed
 directly in markdown format in the files listed below.
 
