@@ -8,4 +8,4 @@ Contents:
   dash-app/user_guide.md -> User Guide to our Web Application
   dash-app/README.txt -> How to install & run our Web Application
   modeling -> Data & Modeling Code
-  modeling/README.md -> How to re-run the modeling code (if desired)
+  modeling/README.md -> How to re-run the modeling code (not recommended as this repository is missing weather and NASA files due to GitHub file size limits)
