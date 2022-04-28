@@ -1,3 +1,5 @@
+This application was created to help predict the behavior of wildfires in Northern California - an area that is regularly and severely affected by wildfires. The final submission ranked 6th in the H2O.ai Wildfire & Bushfire Challenge.
+
 Example screenshots:
 
 ![Predictions](/screenshots/Predictions.png)
