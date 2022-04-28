@@ -4,6 +4,7 @@ Example screenshots:
 
 ![Predictions](/screenshots/Predictions.png)
 ![History](/screenshots/History.png)
+![Evaluation](/screenshots/History.jpg)
 
 The documentation is viewable in the web application, but can also be viewed directly in markdown format in the files listed below.
 
